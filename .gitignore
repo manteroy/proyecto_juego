@@ -1,0 +1,6 @@
+# Ignorar carpetas de compilación
+bin/
+obj/
+# Ignorar archivos temporales de Code::Blocks
+*.layout
+*.depend
